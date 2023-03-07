@@ -22,3 +22,5 @@ The addStudent(), removeStudent(), and isStudentEnrolled() methods will take a S
 The isStudentEnrolled() method will check to see if an identical student already exists in the class section and returns a boolean value.
 
 Goodluck, have fun! :)
+
+Darren
